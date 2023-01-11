@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Currently, astronauts use antiquated and inefficient methods to display typical (extra-vehicular activity) EVA procedures, emergency protocols, and various pieces of information such as critical EMU suit metrics.  This would allow astronauts to easily access and interact with these protocols and metrics, as well as provide additional functionality for EVA missions and location services. 
+Currently, astronauts use antiquated and inefficient methods to display typical (extra-vehicular activity) EVA procedures, emergency protocols, and various pieces of information such as critical EMU suit metrics.  This would allow astronauts to easily access and interact with these protocols and metrics, as well as provide additional functionality for EVA missions and location services. 
 
 This information could consist of important information such as suit diagnostics, consumption rates, location monitoring, emergency checklists, and potential vehicle drone control. There are multiple ways that this system could be interacted with and expanded upon once implemented. 
 
